@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+*.pyc
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
